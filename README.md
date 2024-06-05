@@ -42,7 +42,7 @@ function description(){
 
 🌐 Contact info:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/gabriella-borges-a01b77249/](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pretti-genari-502bab251/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/gabriella-borges-a01b77249/](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pretti-genari-502bab251/))
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:jgpretti2002@gmail.com)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:jgpretti2002@hotmail.com)
 
